@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Version 0.223 of Standoff 2 introduces significant visual upgrades, resulting in improved graphics and enhanced realism","photo2":"https://iili.io/HUQnvZN.jpg"},
+  {"desc3":" The developers have made efforts to optimize the game for various devices, ensuring a smoother and more visually appealing experience for players","photo3":"https://iili.io/HUQnw8J.webp"},
+  {"desc4":"The character models, weapon designs, and environments have been refined, allowing players to immerse themselves further into the game world.","photo4":"https://iili.io/HUQneuR.jpg"},
+  {"desc5":"Standoff 2 v0.223 introduces various gameplay improvements to enhance player immersion and provide a more balanced and competitive experience","photo5":"https://iili.io/HUQnkjp.jpg"},
+  {"descd":" The developers have listened to the community's feedback and made adjustments to movement mechanics, hitboxes, and weapon handling. ","photod":"https://iili.io/HUQnNyv.webp"}
    ]
  
 }
